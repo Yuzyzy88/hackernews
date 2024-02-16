@@ -1,4 +1,10 @@
-This is a graphql project to try the query you can use insomnia or postman.
+The platform will have the following features:
+
+- List of Users and Links
+- Users creation and authentication
+- Users can create Links and vote on them
+
+To try the query you can use insomnia or postman.
 
 ## How to Run the Project
 1. create a new Virtual Environment
