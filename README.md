@@ -1,10 +1,7 @@
-This is graphql project to try the query you can use insomnia or postman. The platform will have the following features:
-
+This is graphql project that will have the following features:
 - List of Users and Links
 - Users creation and authentication
 - Users can create Links and vote on them
-
-
 
 ## How to Run the Project
 1. create a new Virtual Environment
@@ -30,7 +27,7 @@ This is graphql project to try the query you can use insomnia or postman. The pl
    ```
 
 ## Example query and mutation
-This project uses token so you have to set authorization in the header to access mutation
+To use the query you can use [insomnia](https://insomnia.rest/products/insomnia) or [postman](https://www.postman.com/downloads/). This project uses token so you have to set authorization in the header to access mutation.
 
 1. Create user
 ```
